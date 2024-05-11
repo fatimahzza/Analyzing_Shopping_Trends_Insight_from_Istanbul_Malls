@@ -75,3 +75,6 @@ Based on the data above, it is evident that the **cash payment method is more po
 
 
 Based on the data above, it can be observed that the **highest sales for the female gender occurred in 2022**, while the **highest sales for the male gender occurred in 2023**. Therefore, the business team can **consider increasing promotions and products for each gender to maintain and stabilize sales growth.**
+
+## Summary
+Data analysis shows that some products have higher sales compared to others, highlighting the importance of prioritizing stock of the most in-demand products. Marketing strategies can be improved by targeting promotions on the most in-demand products, while providing diversified payment options can increase customer satisfaction in transactions. Personalizing the shopping experience can also increase customer loyalty. By implementing these recommendations, it is expected that the business team can achieve higher business targets and improve customer satisfaction.
