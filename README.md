@@ -14,16 +14,16 @@ Shopping is the activity of buying goods or services for personal consumption or
 
  This data consists of 99,457 rows and 10 columns with the following attribute information: 
  
-**Invoice_no** : Invoice number, with a combination of the letter 'I' and a 6-digit integer uniquely assigned for each transaction.
-**Customer_id** : Customer number, with a combination of the letter 'C' and a 6-digit integer uniquely assigned for each transaction.
-**Gender** : Customer's gender.
-**Age** : Customer's age in integer.
-**Category** : Category of the product purchased.
-**Quantity** : Quantity of each product (item) per transaction. Numeric.
-**Price** : Unit price. Price of the product per unit in Turkish Lira.
-**Payment_method** : Payment method (cash, credit card, or debit card) used for the transaction.
-**Invoice_date** : Invoice date. Day when the transaction was made.
-**Shopping_mall** : Name of the shopping mall where the transaction took place.
+ **Invoice_no** : Invoice number, with a combination of the letter 'I' and a 6-digit integer uniquely assigned for each transaction.
+ **Customer_id** : Customer number, with a combination of the letter 'C' and a 6-digit integer uniquely assigned for each transaction.
+ **Gender** : Customer's gender.
+ **Age** : Customer's age in integer.
+ **Category** : Category of the product purchased.
+ **Quantity** : Quantity of each product (item) per transaction. Numeric.
+ **Price** : Unit price. Price of the product per unit in Turkish Lira.
+ **Payment_method** : Payment method (cash, credit card, or debit card) used for the transaction.
+ **Invoice_date** : Invoice date. Day when the transaction was made.
+ **Shopping_mall** : Name of the shopping mall where the transaction took place.
 
 ## Data Cleansing 
 
