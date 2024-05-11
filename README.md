@@ -57,6 +57,9 @@ Based on the chart, it is evident that certain product categories have significa
 
 **3.How much money do customers spend each month per year?**
 
+![image](https://github.com/fatimahzza/Mini-Project-Data-Analytics/assets/165742717/a0dfbb89-b242-4660-9951-e02d07b4b0ab)
+
+By analyzing customer spending trends from year to year, we can gain a deeper understanding of customer spending patterns. From the analysis results, we observe that **the total amount of money spent by customers each month per year fluctuates significantly**, but there is always an increase in October. Therefore, business teams can **develop more effective marketing strategies and optimize monthly promotions to increase customer satisfaction and overall business growth.**
 
 
 **4. What payment methods do customers use most often?**
