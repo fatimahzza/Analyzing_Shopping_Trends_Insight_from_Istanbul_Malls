@@ -1,4 +1,4 @@
-# Mini-Project-Data-Analytics
+# Mini_Project_Data_Analytics
 
 ## Business Understanding
 Shopping is the activity of buying goods or services for personal consumption or specific needs. This data is from 10 different shopping malls between 2021, 2022, and up to the third month of 2023 in Istanbul. This case has some business questions using the data:
